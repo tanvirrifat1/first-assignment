@@ -20,5 +20,15 @@
 }
 .vlog{
     text-align: center;
-  
+}
+a{
+    color: black;
+}
+.rrr{
+    text-decoration: none;
+    color: white;
+    background-color: orangered;
+    padding: 10px 30px;
+    border-radius: 5px;
+
 }

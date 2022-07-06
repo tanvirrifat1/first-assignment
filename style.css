@@ -1,3 +1,7 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
 .blog img{
     width: 100%;
 }
@@ -31,4 +35,40 @@ a{
     padding: 10px 30px;
     border-radius: 5px;
 
+}
+.rrr2{
+    text-align: center;
+}
+section .vlog2{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width1{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 5px 5px 20px gray;
+    background-color: gray;
+
+}
+.half-width2{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 5px 5px 20px gray;
+    background-color: rgb(172, 123, 131);
+}
+.half-width3{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 5px 5px 20px gray;
+    background-color: rgb(190, 190, 153);
+}
+.program{
+    background-color: rgb(48, 43, 43);
+    color: white;
+}
+footer{
+    color: orangered;
 }
